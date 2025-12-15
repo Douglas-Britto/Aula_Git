@@ -1,4 +1,5 @@
-<img width="1920" height="1080" alt="Club Carreira - Capa de Módulo 03 (3)" src="https://github.com/user-attachments/assets/90142ba6-d8fb-418c-8b7d-14e96eb00333" />
+<img width="1114" height="584" alt="Red Bold Finance YouTube Thumbnail" src="https://github.com/user-attachments/assets/05ee9a65-268e-4e2e-a5d3-e28f8530671f" />
+
 
 <h1 align="center" style="font-size:42px">🧠🚀 Sistema Inteligente de Leitura de Documentos e Respostas Automáticas</h1>
 
