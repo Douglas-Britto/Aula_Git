@@ -1,4 +1,5 @@
-<img width="1114" height="584" alt="Red Bold Finance YouTube Thumbnail" src="https://github.com/user-attachments/assets/05ee9a65-268e-4e2e-a5d3-e28f8530671f" />
+<img width="500" height="281" alt="Black and Green Simple Business Youtube Thumbnail" src="https://github.com/user-attachments/assets/40db475a-41e5-451e-97b1-118f683e374e" />
+
 
 
 <h1 align="center" style="font-size:42px">🧠🚀 Sistema Inteligente de Leitura de Documentos e Respostas Automáticas</h1>
