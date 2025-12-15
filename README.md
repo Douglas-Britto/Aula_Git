@@ -3,7 +3,7 @@
 
 
 
-<h1 align="center" style="font-size:42px">🧠🚀 Sistema Inteligente de Leitura de Documentos e Respostas Automáticas</h1>
+<h1 align="center" style="font-size:42px">🧠🚀 Sistema Inteligência Artificial de Leitura de Documentos e Respostas Automáticas</h1>
 
 ---
 
