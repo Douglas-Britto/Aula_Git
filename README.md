@@ -1,4 +1,5 @@
-<img width="700" height="392" alt="capa" src="https://github.com/user-attachments/assets/ee98c0d3-36b8-41e1-8af9-6d23d456fbe2" />
+<img width="1209" height="680" alt="Club Carreira - Capa de Módulo 03 (1)" src="https://github.com/user-attachments/assets/058fb71e-092b-4db0-95ad-cac6d54c6dbe" />
+
 📚 Projeto: Sistema de Leitura de Documentos e Respostas Inteligentes
 🧠 Visão Geral
 Este projeto demonstra a construção de um sistema capaz de ler arquivos de notas e documentos (PDF, TXT, Markdown, etc.) e responder perguntas dos usuários com base no conteúdo carregado. A solução combina IA generativa, processamento de linguagem natural e engenharia de agentes, servindo como uma vitrine profissional para recrutadores e empresas que buscam desenvolvedores com domínio em IA aplicada.
