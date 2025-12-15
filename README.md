@@ -1,5 +1,4 @@
-<img width="700" height="500" alt="Black and Green Simple Business Youtube Thumbnail" src="https://github.com/user-attachments/assets/00a0be88-3df7-465f-be91-966e613cb3be" />
-
+<img width="800" height="350" alt="Black and Blue Modern Business YouTube Thumbnail" src="https://github.com/user-attachments/assets/997c9c65-55cc-45eb-bfd5-34413a2bba59" />
 
 
 
