@@ -1,1 +1,0 @@
-![Capa do Projeto](imagens/capa.png)
