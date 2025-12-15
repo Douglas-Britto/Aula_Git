@@ -1,4 +1,5 @@
-<img width="800" height="350" alt="Black and Blue Modern Business YouTube Thumbnail" src="https://github.com/user-attachments/assets/997c9c65-55cc-45eb-bfd5-34413a2bba59" />
+<img width="850" height="318" alt="Black and Blue Modern Business YouTube Thumbnail" src="https://github.com/user-attachments/assets/47713df2-3528-4949-9b97-ba581beca6c2" />
+
 
 
 
