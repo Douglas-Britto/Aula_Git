@@ -1,62 +1,72 @@
-<img width="1209" height="680" alt="Club Carreira - Capa de Módulo 03 (1)" src="https://github.com/user-attachments/assets/058fb71e-092b-4db0-95ad-cac6d54c6dbe" />
+<img width="1920" height="1080" alt="Club Carreira - Capa de Módulo 03 (3)" src="https://github.com/user-attachments/assets/90142ba6-d8fb-418c-8b7d-14e96eb00333" />
 
-🧠🚀 Sistema Inteligente de Leitura de Documentos e Respostas Automáticas
+<h1 align="center" style="font-size:42px">🧠🚀 Sistema Inteligente de Leitura de Documentos e Respostas Automáticas</h1>
 
-📚 Visão Geral
-Este projeto demonstra a criação de um sistema capaz de ler arquivos de notas e documentos e responder perguntas dos usuários com base no conteúdo carregado. A solução combina IA generativa, engenharia de agentes e processamento de linguagem natural, servindo como uma vitrine profissional para recrutadores que buscam desenvolvedores com experiência prática em IA.
+---
 
-🔧 Tecnologias Utilizadas
-🤖 Gemma 3 4B
-Modelo de linguagem leve, eficiente e ideal para aplicações locais.
+## 📚 Visão Geral
 
-🔗 LangChain
-Framework para criação de agentes, cadeias de raciocínio e orquestração de modelos.
+Este projeto demonstra como construir um sistema capaz de **ler arquivos de notas e documentos** e **responder perguntas dos usuários** com base no conteúdo carregado.
 
-🐍 Python
-Linguagem principal do projeto, com foco em clareza e produtividade.
+A solução combina **IA generativa**, **engenharia de agentes** e **processamento de linguagem natural**, servindo como uma vitrine profissional para recrutadores que buscam desenvolvedores com experiência prática em IA.
 
-📊 Pandas
-Utilizado para manipulação de dados estruturados e análises complementares.
+---
 
-🧩 Arquitetura do Projeto
-🗂️ 1. Carregamento e Processamento de Documentos
-Leitura de arquivos
+## 🔧 Tecnologias Utilizadas
 
-Extração de texto
+- 🤖 **Gemma 3 4B** – modelo de linguagem leve e eficiente
+- 🔗 **LangChain** – framework para agentes e orquestração de raciocínio
+- 🐍 **Python** – linguagem principal do projeto
+- 📊 **Pandas** – manipulação de dados estruturados
 
-Normalização
+---
 
-Suporte a múltiplos formatos
+## 🧩 Arquitetura do Projeto
 
-🧠 2. Agentes Inteligentes (Scripts .py)
-O projeto inclui múltiplos agentes, como:
+### 🗂️ Carregamento e Processamento de Documentos
 
-agent_reader.py → leitura e interpretação
+- Leitura de arquivos (PDF, TXT, Markdown)
+- Extração e normalização de texto
+- Suporte a múltiplos formatos
 
-agent_qa.py → perguntas e respostas
+### 🧠 Agentes Inteligentes (`.py`)
 
-agent_router.py → roteamento inteligente
+Scripts organizados por função:
 
-agent_analyzer.py → análises com Pandas
+- `agent_reader.py` → leitura e interpretação
+- `agent_qa.py` → perguntas e respostas
+- `agent_router.py` → roteamento inteligente
+- `agent_analyzer.py` → análises com Pandas
+- `agent_memory.py` → memória e contexto
 
-agent_memory.py → memória e contexto
+---
 
-Esses agentes foram criados com foco em aprendizado, clareza de código e boas práticas.
+## 💬 Funcionalidades Principais
 
-💬 Funcionalidades Principais
-✅ Leitura automática de documentos
-✅ Respostas baseadas no conteúdo
-✅ Suporte a múltiplos agentes
-✅ Pipeline modular com LangChain
-✅ Fácil expansão
-✅ Código limpo e organizado
-🎯 Objetivo Profissional
-Este repositório foi desenvolvido como um projeto de estudo e demonstração técnica, servindo como:
+- ✅ Leitura automática de documentos
+- ✅ Respostas baseadas no conteúdo
+- ✅ Suporte a múltiplos agentes
+- ✅ Pipeline modular com LangChain
+- ✅ Expansão fácil e escalável
+- ✅ Código limpo e comentado
 
-Portfólio profissional
+---
 
-Prova de domínio em IA aplicada
+## 🎯 Objetivo Profissional
 
-Exemplo de arquitetura com agentes
+Este repositório foi desenvolvido como um **projeto de estudo e demonstração técnica**, servindo como:
 
-Material para recrutadores avaliarem habilidades reais
+- Portfólio profissional
+- Prova de domínio em IA aplicada
+- Exemplo de arquitetura com agentes
+- Material para recrutadores avaliarem habilidades reais
+
+---
+
+## 🛠️ Como Executar
+
+```bash
+pip install -r requirements.txt
+python main.py
+
+
