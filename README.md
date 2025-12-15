@@ -1,60 +1,62 @@
 <img width="1209" height="680" alt="Club Carreira - Capa de Módulo 03 (1)" src="https://github.com/user-attachments/assets/058fb71e-092b-4db0-95ad-cac6d54c6dbe" />
 
-📚 Projeto: Sistema de Leitura de Documentos e Respostas Inteligentes
+🧠🚀 Sistema Inteligente de Leitura de Documentos e Respostas Automáticas
 
-🧠 Visão Geral
-Este projeto demonstra a construção de um sistema capaz de ler arquivos de notas e documentos (PDF, TXT, Markdown, etc.) e responder perguntas dos usuários com base no conteúdo carregado. A solução combina IA generativa, processamento de linguagem natural e engenharia de agentes, servindo como uma vitrine profissional para recrutadores e empresas que buscam desenvolvedores com domínio em IA aplicada.
+📚 Visão Geral
+Este projeto demonstra a criação de um sistema capaz de ler arquivos de notas e documentos e responder perguntas dos usuários com base no conteúdo carregado. A solução combina IA generativa, engenharia de agentes e processamento de linguagem natural, servindo como uma vitrine profissional para recrutadores que buscam desenvolvedores com experiência prática em IA.
 
-🚀 Tecnologias Utilizadas
+🔧 Tecnologias Utilizadas
 🤖 Gemma 3 4B
-Modelo de linguagem leve e eficiente, ideal para aplicações locais e protótipos de IA.
+Modelo de linguagem leve, eficiente e ideal para aplicações locais.
 
 🔗 LangChain
-Framework para criação de pipelines inteligentes, agentes, cadeias de raciocínio e orquestração de modelos.
+Framework para criação de agentes, cadeias de raciocínio e orquestração de modelos.
 
 🐍 Python
-Linguagem principal do projeto, escolhida pela robustez no ecossistema de IA.
+Linguagem principal do projeto, com foco em clareza e produtividade.
 
 📊 Pandas
-Utilizado para manipulação de dados estruturados, tabelas e análises complementares.
+Utilizado para manipulação de dados estruturados e análises complementares.
 
 🧩 Arquitetura do Projeto
 🗂️ 1. Carregamento e Processamento de Documentos
-Leitura de arquivos de notas e documentos
+Leitura de arquivos
 
 Extração de texto
 
-Normalização e preparação dos dados
+Normalização
 
 Suporte a múltiplos formatos
 
 🧠 2. Agentes Inteligentes (Scripts .py)
-O projeto inclui múltiplos agentes, cada um com responsabilidades específicas, como:
+O projeto inclui múltiplos agentes, como:
 
-agent_reader.py → responsável por ler e interpretar documentos
+agent_reader.py → leitura e interpretação
 
-agent_qa.py → agente de perguntas e respostas
+agent_qa.py → perguntas e respostas
 
-agent_router.py → decide qual agente deve atuar
+agent_router.py → roteamento inteligente
 
-agent_analyzer.py → realiza análises adicionais com Pandas
+agent_analyzer.py → análises com Pandas
 
-agent_memory.py → gerencia contexto e histórico de conversas
+agent_memory.py → memória e contexto
 
-Esses agentes foram criados com foco em aprendizado, clareza de código e boas práticas, permitindo que recrutadores avaliem:
-
-Estruturação de projeto
-
-Organização de responsabilidades
-
-Qualidade do código Python
-
-Capacidade de trabalhar com IA moderna
+Esses agentes foram criados com foco em aprendizado, clareza de código e boas práticas.
 
 💬 Funcionalidades Principais
 ✅ Leitura automática de documentos
-✅ Respostas baseadas no conteúdo carregado
+✅ Respostas baseadas no conteúdo
 ✅ Suporte a múltiplos agentes
-✅ Pipeline modular usando LangChain
-✅ Fácil expansão para novos tipos de documentos
-✅ Código limpo, comentado e orientado a boas práticas
+✅ Pipeline modular com LangChain
+✅ Fácil expansão
+✅ Código limpo e organizado
+🎯 Objetivo Profissional
+Este repositório foi desenvolvido como um projeto de estudo e demonstração técnica, servindo como:
+
+Portfólio profissional
+
+Prova de domínio em IA aplicada
+
+Exemplo de arquitetura com agentes
+
+Material para recrutadores avaliarem habilidades reais
